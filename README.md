@@ -23,6 +23,7 @@ coverage run -m pytest tests
 ```
 
 # Folder Structure
+```
 📁 project-root/
 ├── 📁 data/
 │   ├── data1.csv
@@ -32,6 +33,7 @@ coverage run -m pytest tests
 │   └── utils.py
 ├── README.md
 └── requirements.txt
+```
 
 
 # Store to CSV
