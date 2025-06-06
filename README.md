@@ -12,3 +12,6 @@
 
 # Store to Postgresql
 ![store_to_postgresql](https://github.com/user-attachments/assets/7945516f-9d12-4aca-bd11-20a1e7e389c4)
+
+# Unit Test using Pytest
+![unit_test](https://github.com/user-attachments/assets/40bc8be6-bb35-4a30-af9a-aa7d21c6831f)
