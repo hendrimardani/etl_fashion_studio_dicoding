@@ -1,7 +1,7 @@
 # Features
 - Scrap Data From Website https://fashion-studio.dicoding.dev
 - Extract Data with Transform
-- Load data into csv, google sheets, and postgresql
+- Load data into csv, google sheets, and postgreSQL
 - Unit test for testing using pytest
 
 # Usage
