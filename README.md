@@ -4,6 +4,10 @@
 - Load data into csv, google sheets, and postgresql
 - Unit test for testing using pytest
 
+# Usage
+```bash
+ssss
+
 # Store to CSV
 ![store_to_csv](https://github.com/user-attachments/assets/4bf56d37-513b-4344-a72a-cbdc9ca83d8e)
 
