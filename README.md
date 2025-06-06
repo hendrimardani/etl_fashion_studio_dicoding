@@ -24,15 +24,23 @@ coverage run -m pytest tests
 
 # Folder Structure
 ```
-📁 project-root/
-├── 📁 data/
-│   ├── data1.csv
-│   └── data2.csv
-├── 📁 src/
-│   ├── main.py
-│   └── utils.py
-├── README.md
-└── requirements.txt
+📁 submission-pemda/
+├── 📁 .env/
+│   ├── 📁 Include/
+│   └── 📁 Lib/
+|   └── 📁 Scripts/
+├── 📁 htmlcov/
+├── 📁 tests/
+│   ├── test_extract.py
+│   ├── test_load.py
+│   ├── test_transform.py
+├── 📁 utils
+│   ├── extract.py
+│   ├── load.py
+│   ├── transform.py
+├── main.py
+├── data_fashions.csv
+└── submission.txt
 ```
 
 
