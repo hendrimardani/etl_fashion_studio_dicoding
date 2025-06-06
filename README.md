@@ -22,6 +22,10 @@ python -m pytest tests --cov --cov-report=html
 coverage run -m pytest tests
 ```
 
+# Folder Structure
+- a
+  - aa
+
 # Store to CSV
 ![store_to_csv](https://github.com/user-attachments/assets/4bf56d37-513b-4344-a72a-cbdc9ca83d8e)
 
