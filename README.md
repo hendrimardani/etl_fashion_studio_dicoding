@@ -6,7 +6,20 @@
 
 # Usage
 ```bash
-ssss
+python -m venv .env
+pip install -r requirements.txt
+
+# Menjalankan skrip utama
+python main.py
+
+# Menjalankan unit test pada folder test
+python -m pytest tests
+
+# Menjalankan unit test pada folder tests dengan covarege report html
+python -m pytest tests --cov --cov-report=html
+
+# Menjalankan test coverage pada folder tests
+coverage run -m pytest tests
 ```
 
 # Store to CSV
